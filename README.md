@@ -1,0 +1,1 @@
+This project involves creating SQL tables from scratch in MySQL workbench, reverse engineering the ERD into an SQL script and importing that into a Jupyter notebook. I then take data given from a csv file to input into the appropriate SQL tables.
